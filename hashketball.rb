@@ -181,7 +181,7 @@ def team_names
   game_hash.each do |location,team_data|
     team_data.each do |data_type,data|
       if data_type == :team_name
-        
+        array_of_names[counter] = data
       end
     end
   end
