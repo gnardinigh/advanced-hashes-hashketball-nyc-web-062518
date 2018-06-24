@@ -70,28 +70,28 @@ def game_hash
                         :rebounds => "1",
                         :assists => "1",
                         :steals => "2",
-                        :blocks => "",
-                        :dunks = ""
+                        :blocks => "7",
+                        :dunks = "2"
                     },
                     "Bismak Biyombo"  => {
-                        :number => "",
-                        :shoe => "",
-                        :points => "",
-                        :rebounds => "",
-                        :assists => "",
-                        :steals => "",
-                        :blocks => "",
-                        :dunks = ""
+                        :number => "0",
+                        :shoe => "16",
+                        :points => "12",
+                        :rebounds => "4",
+                        :assists => "7",
+                        :steals => "7",
+                        :blocks => "15",
+                        :dunks = "10"
                     },
                     "DeSagna Diop"  => {
-                        :number => "",
-                        :shoe => "",
-                        :points => "",
-                        :rebounds => "",
-                        :assists => "",
-                        :steals => "",
-                        :blocks => "",
-                        :dunks = ""
+                        :number => "2",
+                        :shoe => "14",
+                        :points => "24",
+                        :rebounds => "12",
+                        :assists => "12",
+                        :steals => "4",
+                        :blocks => "5",
+                        :dunks = "5"
                     },
                     "Ben Gordon"  => {
                         :number => "",
