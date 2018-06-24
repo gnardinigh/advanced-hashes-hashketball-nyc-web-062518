@@ -63,7 +63,7 @@ def game_hash
               :team_name => "Charlotte Hornets",
               :colors => ["Turquoise", "Purple"],
               :players => {
-                    ""  => {
+                    "Jeff Adrien"  => {
                         :number => "",
                         :shoe => "",
                         :points => "",
@@ -73,7 +73,7 @@ def game_hash
                         :blocks => "",
                         :dunks = ""
                     },
-                    ""  => {
+                    "Bismak Biyombo"  => {
                         :number => "",
                         :shoe => "",
                         :points => "",
@@ -83,7 +83,7 @@ def game_hash
                         :blocks => "",
                         :dunks = ""
                     },
-                    ""  => {
+                    "DeSagna Diop"  => {
                         :number => "",
                         :shoe => "",
                         :points => "",
