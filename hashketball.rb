@@ -148,7 +148,7 @@ game_hash.each do |location, team_data|
       data.each do |player,stats|
         if player == player_name
           stats.each do |stat_type,stat|
-            if stat_type == :points
+            if stat_type == :shoe
               return stat.to_i
            end 
           end
