@@ -15,7 +15,7 @@ def game_hash
                         :assists => "12",
                         :steals => "3",
                         :blocks => "1",
-                        :dunks = "1"
+                        :dunks => "1"
                     },
                     "Reggie Evans" => {
                         :number => "30",
@@ -25,7 +25,7 @@ def game_hash
                         :assists => "12",
                         :steals => "12",
                         :blocks => "12",
-                        :dunks = "7"
+                        :dunks => "7"
                     },
                     "Brook Lopez" => {
                         :number => "11",
@@ -35,7 +35,7 @@ def game_hash
                         :assists => "10",
                         :steals => "3",
                         :blocks => "1",
-                        :dunks = "15"
+                        :dunks => "15"
                     },
                     "Mason Plumlee" => {
                         :number => "1",
@@ -45,7 +45,7 @@ def game_hash
                         :assists => "6",
                         :steals => "3",
                         :blocks => "8",
-                        :dunks = "5"
+                        :dunks => "5"
                     },
                     "Jason Terry" => {
                         :number => "31",
@@ -55,7 +55,7 @@ def game_hash
                         :assists => "2",
                         :steals => "4",
                         :blocks => "11",
-                        :dunks = "1"
+                        :dunks => "1"
                     }
               }
         },
@@ -71,7 +71,7 @@ def game_hash
                         :assists => "1",
                         :steals => "2",
                         :blocks => "7",
-                        :dunks = "2"
+                        :dunks => "2"
                     },
                     "Bismak Biyombo"  => {
                         :number => "0",
@@ -81,7 +81,7 @@ def game_hash
                         :assists => "7",
                         :steals => "7",
                         :blocks => "15",
-                        :dunks = "10"
+                        :dunks => "10"
                     },
                     "DeSagna Diop"  => {
                         :number => "2",
@@ -91,7 +91,7 @@ def game_hash
                         :assists => "12",
                         :steals => "4",
                         :blocks => "5",
-                        :dunks = "5"
+                        :dunks => "5"
                     },
                     "Ben Gordon"  => {
                         :number => "8",
@@ -101,7 +101,7 @@ def game_hash
                         :assists => "2",
                         :steals => "1",
                         :blocks => "1",
-                        :dunks = "0"
+                        :dunks => "0"
                     },
                     "Brendan Haywood"  => {
                         :number => "33",
@@ -111,7 +111,7 @@ def game_hash
                         :assists => "12",
                         :steals => "22",
                         :blocks => "5",
-                        :dunks = "12"
+                        :dunks => "12"
                     }
               }
         }
