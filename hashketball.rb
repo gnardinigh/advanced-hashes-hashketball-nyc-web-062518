@@ -116,8 +116,7 @@ def game_hash
         }
   }
 end
-        
-player_name = "Reggie Evans"
+      
 
 
 def num_points_scored(player_name)
