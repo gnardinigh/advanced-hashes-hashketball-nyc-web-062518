@@ -124,7 +124,7 @@ game_hash.each do |location, team_data|
     if data_type == :players
       data.each do |player,stats|
         if player == player_name
-          puts "yay"
+          return player_name[:points]
         end
       end
     end
