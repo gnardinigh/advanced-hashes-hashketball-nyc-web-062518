@@ -169,7 +169,7 @@ def team_colors(team_name)
           if data_type_again == :colors
             return team_data_again
         end
-        end
+      end
     end
   end
 end
