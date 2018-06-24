@@ -109,9 +109,9 @@ def game_hash
                         :points => "6",
                         :rebounds => "12",
                         :assists => "12",
-                        :steals => "",
-                        :blocks => "",
-                        :dunks = ""
+                        :steals => "22",
+                        :blocks => "5",
+                        :dunks = "12"
                     }
               }
         }
