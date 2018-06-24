@@ -205,7 +205,7 @@ def player_numbers(team_name)
   end
 end
 
-player_numbers(team_name)
+puts player_numbers(team_name).inspect
 
 
 
