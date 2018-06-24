@@ -186,13 +186,15 @@ def player_numbers(team_name)
   counter=0
   game_hash.each do |location,team_data|
     team_data.each do |data_type,data|
-      if 
+      if data == team_name
+        team_data.each do |data_type,data|
         data_type == :players
           data.each do |player_name,player_stats|
             player_stats.each do |stat_name,stat|
               if stat_name==:number
                 array_numbers[counter]=stat
                 counter+=1
+            end
           end
         end
        end
