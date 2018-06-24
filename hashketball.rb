@@ -117,13 +117,13 @@ def game_hash
   }
 end
         
-
+player_name = "Reggie Evans"
 
 game_hash.each do |location, team_data|
   team_data.each do |data_type,data|
     if data_type == :players
       data.each do |player,stats|
-        puts player
+        if player == player_name
       end
     end
   end
