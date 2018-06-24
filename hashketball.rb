@@ -186,4 +186,14 @@ def team_names
       end
     end
   end
+  return array_of_names
 end
+
+
+
+
+
+
+
+
+
