@@ -57,7 +57,7 @@ require 'pry'
                         :blocks => "11",
                         :dunks => "1"
                     }
-              }
+                }
               },
         :away => {
               :team_name => "Charlotte Hornets",
