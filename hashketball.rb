@@ -176,10 +176,13 @@ def team_colors(team_name)
 end
 
 def team_names
-  array_of_names
+  array_of_names=[]
+  counter=0
   game_hash.each do |location,team_data|
     team_data.each do |data_type,data|
-      if 
-end
-end
+      if data_type == :team_name
+        
+      end
+    end
+  end
 end
