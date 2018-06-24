@@ -127,6 +127,9 @@ def num_points_scored(player_name)
         team_details.each do |playerz_name,stats|
           if playerz_name == playerz_name
             stats.each do |stat_type,stat_number|
+            if stat_type == :points
+              return 
+          end
         end
       end
     end
