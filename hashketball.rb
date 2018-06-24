@@ -182,6 +182,7 @@ def team_names
     team_data.each do |data_type,data|
       if data_type == :team_name
         array_of_names[counter] = data
+        counter+=1
       end
     end
   end
