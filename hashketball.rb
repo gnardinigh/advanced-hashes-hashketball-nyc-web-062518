@@ -124,7 +124,9 @@ game_hash.each do |location, team_data|
     if data_type == :players
       data.each do |player,stats|
         if player == player_name
-          return player_name[:points].to_int
+          stats.each do |stat_type,stat|
+            
+          end
         end
       end
     end
