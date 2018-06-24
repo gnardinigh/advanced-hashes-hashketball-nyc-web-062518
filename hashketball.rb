@@ -185,9 +185,11 @@ def player_numbers(team_name)
   array_numbers = []
   counter=0
   game_hash.each do |location,team_data|
+    team_data.each do |data_type,data|
+      
     
     
-    
+    end
   end
 end
 
