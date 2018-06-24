@@ -1,7 +1,7 @@
 require 'pry'
 
 
-def game_hash
+
   game_hash={
         :home => {
               :team_name => "Brooklyn Nets",
@@ -112,25 +112,8 @@ def game_hash
                         :blocks => "5",
                         :dunks => "12"
                     }
-              }
+              
         
-    return game_hash}
-end
-
-
-def num_points_scored(player_name)
-  game_hash.each do |location,team_data|
-    team_data.each do |team_details,data|
-      if team_details == :players
-        team_details.each do |playerz_name,stats|
-          if player_name == playerz_name
-            return stats[:points]
-        end
-      end
-    end
-  end
-end
-
 
 
 
