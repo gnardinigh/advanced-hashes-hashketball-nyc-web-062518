@@ -112,7 +112,7 @@ def game_hash
                         :blocks => "5",
                         :dunks => "12"
                     }
-              }}
+              }
         
     return game_hash}
 end
