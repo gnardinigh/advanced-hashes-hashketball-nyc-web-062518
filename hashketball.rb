@@ -121,7 +121,9 @@ end
 
 game_hash.each do |location, team_data|
   team_data.each do |data_type,data|
-    puts data_type
+    if data_type == :players
+      
+    end
   end
   
 end
