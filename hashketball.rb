@@ -189,7 +189,7 @@ def player_numbers(team_name)
   
   game_hash.each do |location,team_stats|
     if team_stats[:team_name] == team_name
-      
+      puts 
     end  
   end
 end
