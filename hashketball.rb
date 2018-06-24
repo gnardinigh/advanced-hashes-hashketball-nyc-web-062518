@@ -193,7 +193,8 @@ def player_numbers(team_name)
         if data_type == :players
           data.each do |player,stat_set|
             stat_set.each do |stat_type,stat|
-              
+              if stat_type == :number
+              end
             end
           end
         end
