@@ -93,7 +93,7 @@ def game_hash
                         :blocks => "",
                         :dunks = ""
                     },
-                    ""  => {
+                    "Ben Gordon"  => {
                         :number => "",
                         :shoe => "",
                         :points => "",
