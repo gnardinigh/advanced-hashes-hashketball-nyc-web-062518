@@ -120,7 +120,8 @@ end
 
 
 game_hash.each do |location, team_data|
-  puts location
-  puts team_data
+  team_data.each do |data_type,data|
+    
+  end
   
 end
