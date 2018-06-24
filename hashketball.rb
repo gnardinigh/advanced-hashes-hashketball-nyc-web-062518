@@ -126,7 +126,7 @@ game_hash.each do |location, team_data|
         if player == player_name
           stats.each do |stat_type,stat|
             if stat_type == :points
-              puts stat
+              return stat
            end 
           end
         end
