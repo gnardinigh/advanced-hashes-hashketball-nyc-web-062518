@@ -186,7 +186,8 @@ team_name = "Brooklyn Nets"
 
 
 game_hash.each do |location,team_data|
-  
+  puts location
+end
 
 
 
