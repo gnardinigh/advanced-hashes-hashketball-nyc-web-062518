@@ -121,4 +121,6 @@ end
 
 game_hash.each do |location, team_data|
   puts location
+  puts team_data
+  
 end
