@@ -184,25 +184,10 @@ end
 def player_numbers(team_name)
   array_numbers = []
   counter=0
-  game_hash.each do |location,team_data|
-    team_data.each do |data_type,data|
-      if data == team_name
-        team_data.each do |data_type,data|
-        data_type == :players
-          data.each do |player_name,player_stats|
-            player_stats.each do |stat_name,stat|
-              if stat_name==:number
-                array_numbers[counter]=stat
-                counter+=1
-              end
-            end
-          end
-        end
-       end
-      end
-    end
+  
+  game_hash.each do |location,team_stats|
+    puts team_stats[:team_name]
   end
-  return array_numbers
 end
 
 
