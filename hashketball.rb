@@ -165,7 +165,11 @@ def team_colors(team_name)
   game_hash.each do |location,team_data|
     team_data.each do |data_type,datax|
       if team_name == datax
-        
+        team_data.each do |data_type_again,team_data_again|
+          if data_type_again == :colors
+            
+        end
+        end
     end
   end
 end
