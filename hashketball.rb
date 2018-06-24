@@ -186,7 +186,9 @@ team_name = "Brooklyn Nets"
 
 
 game_hash.each do |location,team_data|
-  team_data.each do |data_type,data_list
+  team_data.each do |data_type,data_list|
+    puts data_type
+  end
 end
 
 
