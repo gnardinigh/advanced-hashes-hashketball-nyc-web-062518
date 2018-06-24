@@ -176,6 +176,10 @@ def team_colors(team_name)
 end
 
 def team_names
+  array_of_names
   game_hash.each do |location,team_data|
-    
+    team_data.each do |data_type,data|
+      if 
+end
+end
 end
