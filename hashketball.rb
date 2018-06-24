@@ -94,14 +94,14 @@ def game_hash
                         :dunks = "5"
                     },
                     "Ben Gordon"  => {
-                        :number => "",
-                        :shoe => "",
-                        :points => "",
-                        :rebounds => "",
-                        :assists => "",
-                        :steals => "",
-                        :blocks => "",
-                        :dunks = ""
+                        :number => "8",
+                        :shoe => "15",
+                        :points => "33",
+                        :rebounds => "3",
+                        :assists => "2",
+                        :steals => "1",
+                        :blocks => "1",
+                        :dunks = "0"
                     },
                     "Brendan Haywood"  => {
                         :number => "",
