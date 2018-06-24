@@ -195,6 +195,7 @@ def player_numbers(team_name)
             stat_set.each do |stat_type,stat|
               if stat_type == :number
                 array_numbers[counter]=stat
+                counter+=1
               end
             end
           end
