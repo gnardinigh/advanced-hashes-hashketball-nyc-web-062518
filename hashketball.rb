@@ -167,7 +167,7 @@ def team_colors(team_name)
       if team_name == datax
         team_data.each do |data_type_again,team_data_again|
           if data_type_again == :colors
-            
+            return team_data_again
         end
         end
     end
