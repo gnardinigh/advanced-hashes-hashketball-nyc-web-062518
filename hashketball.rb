@@ -190,7 +190,10 @@ def player_numbers(team_name)
         data_type == :players
           data.each do |player_name,player_stats|
             player_stats.each do |stat_name,stat|
-              
+              if stat_name==:number
+                array_numbers[counter]=stat
+                counter+=1
+            end
               
         end
        end
