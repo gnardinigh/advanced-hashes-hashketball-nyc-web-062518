@@ -104,11 +104,11 @@ def game_hash
                         :dunks = "0"
                     },
                     "Brendan Haywood"  => {
-                        :number => "",
-                        :shoe => "",
-                        :points => "",
-                        :rebounds => "",
-                        :assists => "",
+                        :number => "33",
+                        :shoe => "15",
+                        :points => "6",
+                        :rebounds => "12",
+                        :assists => "12",
                         :steals => "",
                         :blocks => "",
                         :dunks = ""
