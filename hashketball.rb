@@ -4,7 +4,12 @@ def game_hash
               :team_name => "",
               :colors => "",
               :players => {
-                    :name => {}
+                    :name => {
+                        :number => "",
+                        :shoe => "",
+                        :points => "",
+                        :
+                    }
               }
         },
         :away => {
