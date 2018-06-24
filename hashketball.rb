@@ -182,6 +182,8 @@ def team_names
 end
 
 def player_numbers(team_name)
+  array_numbers = []
+  counter=0
   game_hash.each do |location,team_data|
     
     
