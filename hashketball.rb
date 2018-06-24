@@ -120,4 +120,5 @@ end
         
 
 
-game_
+game_hash.each do |location, team_data|
+  
