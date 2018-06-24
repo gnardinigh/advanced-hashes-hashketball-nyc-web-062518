@@ -73,6 +73,46 @@ def game_hash
                         :blocks => "",
                         :dunks = ""
                     },
+                    ""  => {
+                        :number => "",
+                        :shoe => "",
+                        :points => "",
+                        :rebounds => "",
+                        :assists => "",
+                        :steals => "",
+                        :blocks => "",
+                        :dunks = ""
+                    },
+                    ""  => {
+                        :number => "",
+                        :shoe => "",
+                        :points => "",
+                        :rebounds => "",
+                        :assists => "",
+                        :steals => "",
+                        :blocks => "",
+                        :dunks = ""
+                    },
+                    ""  => {
+                        :number => "",
+                        :shoe => "",
+                        :points => "",
+                        :rebounds => "",
+                        :assists => "",
+                        :steals => "",
+                        :blocks => "",
+                        :dunks = ""
+                    },
+                    ""  => {
+                        :number => "",
+                        :shoe => "",
+                        :points => "",
+                        :rebounds => "",
+                        :assists => "",
+                        :steals => "",
+                        :blocks => "",
+                        :dunks = ""
+                    },
               }
         }
 end
