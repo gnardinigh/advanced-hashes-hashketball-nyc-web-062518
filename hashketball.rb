@@ -72,7 +72,7 @@ def game_hash
                         :steals => "",
                         :blocks => "",
                         :dunks = ""
-                    }
+                    },
               }
         }
 end
