@@ -192,8 +192,8 @@ def player_numbers(team_name)
             player_stats.each do |stat_name,stat|
               
               
-          end
-         end
+        end
+       end
       end
     end
   end
