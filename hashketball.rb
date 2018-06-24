@@ -194,6 +194,7 @@ def player_numbers(team_name)
               if stat_name==:number
                 array_numbers[counter]=stat
                 counter+=1
+              end
             end
           end
         end
