@@ -164,6 +164,6 @@ end
 def team_colors(team_name)
   game_hash.each do |location,team_data|
     team_data.each do |data_type,datax|
-      if 
+      if team_name == datax
   end
 end
