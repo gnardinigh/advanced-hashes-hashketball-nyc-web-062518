@@ -181,6 +181,8 @@ def team_names
   return array_of_names
 end
 
+team_name = "Brooklyn Nets"
+
 def player_numbers(team_name)
   array_numbers = []
   counter=0
