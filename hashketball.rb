@@ -183,29 +183,11 @@ end
 
 team_name = "Brooklyn Nets"
 
-def player_numbers(team_name)
-  array_numbers = []
-  counter=0
-  
-  game_hash.each do |location,team_stats|
-    if team_stats[:team_name] == team_name
-      team_stats.each do |data_type,data|
-        if data_type == :players
-          data.each do |player,stat_set|
-            stat_set.each do |stat_type,stat|
-              if stat_type == :number
-                array_numbers[counter]=stat
-                counter+=1
-              end
-            end
-          end
-        end
-      end
-    end  
-  end
-end
 
-puts player_numbers(team_name).inspect
+
+
+
+
 
 
 
