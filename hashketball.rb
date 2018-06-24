@@ -114,7 +114,7 @@ def game_hash
                     }
               }}
         
-    return game_hash}
+    return game_hash
 end
 
 
