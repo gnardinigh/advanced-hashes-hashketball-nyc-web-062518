@@ -1,3 +1,6 @@
+
+
+
 def game_hash
   the_hash={
         :home => {
@@ -31,7 +34,7 @@ def game_hash
                         :dunks = ""
                     }
               }
-        },
+        }
 end
 
 
